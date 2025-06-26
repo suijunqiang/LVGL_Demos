@@ -35,7 +35,7 @@ The LVGL Windows Manager is based on V9.3, and it is a demo application that sho
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
-![image](./img/view_main.png)
+![image](./img/win_main.png)
 ![image](./img/view_manager.gif)
 
 ## LVGL_VSCode

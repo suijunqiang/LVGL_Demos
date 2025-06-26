@@ -17,7 +17,7 @@ The LVGL Launcher is based on V9.3, and it is a demo application that showcases 
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
-![image](https://github.com/suijunqiang/lvgl9.3_watch_ui/tree/main/main/src/demo/img/Launcher.gif)
+![image](./img/Launcher.gif)
 
 ## LVGL_WaterFall_HoneyComb
 <a id="LVGL_WaterFall_HoneyComb"></a>
@@ -25,7 +25,7 @@ The LVGL WaterFall_HoneyComb is based on V9.3, and it is a demo application that
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
-![image](https://github.com/suijunqiang/lvgl9.3_watch_ui/tree/main/main/src/demo/img/waterfall.gif)
+![image](./img/waterfall.gif)
 
 ## LVGL_Windows_Manager
 <a id="LVGL_Windows_Manager"></a>
@@ -33,7 +33,7 @@ The LVGL Windows Manager is based on V9.3, and it is a demo application that sho
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
-![image](https://github.com/suijunqiang/lvgl9.3_watch_ui/tree/main/main/src/demo/img/view_manager.gif)
+![image](./img/view_manager.gif)
 
 ## LVGL_VSCode
 <a id="LVGL_VSCode_"></a>

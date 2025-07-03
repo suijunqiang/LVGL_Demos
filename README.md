@@ -1,7 +1,9 @@
 # LVGL Demos 
-LVGL 9.3 Launcher/WaterFall/HoneyComb/Windows Manager
+LVGL9.3 Launcher/WaterFall/HoneyComb/Indicator/Windows Manager
 
 ## List
+
+# VSCode Simulator project for LVGL
 
 - [LVGL Launcher](#LVGL_Launcher)
 - [LVGL WaterFall_HoneyComb](#LVGL_WaterFall_HoneyComb)
@@ -13,7 +15,7 @@ LVGL 9.3 Launcher/WaterFall/HoneyComb/Windows Manager
 ## LVGL_Launcher
 <a id="LVGL_Launcher"></a>
 
-The LVGL Launcher is based on V9.3, and it is a demo application that showcases the capabilities of the LVGL  graphical user interface library. It is designed to provide a user-friendly interface for launching various applications and features on a graphical display, such as Android Launcher or Apple UI Home.
+The LVGL Launcher is based on LVGL9.3, and it is a demo application that showcases the capabilities of the LVGL9.3  graphical user interface library. It is designed to provide a user-friendly interface for launching various applications and features on a graphical display, such as Android Launcher or Apple UI Home.
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
@@ -22,21 +24,29 @@ The UI screen shot is as follows:
 
 ## LVGL_WaterFall_HoneyComb
 <a id="LVGL_WaterFall_HoneyComb"></a>
-The LVGL WaterFall_HoneyComb is based on V9.3, and it is a demo application that showcases the capabilities of the LVGL  graphical user interface library. It is designed to provide a user-friendly interface for launching various applications and features on a graphical display, such as Android Launcher or Apple UI Home.
+The LVGL WaterFall_HoneyComb is based on LVGL9.3, and it is a demo application that showcases the capabilities of the LVGL  graphical user interface library. It is designed to provide a user-friendly interface for launching various applications and features on a graphical display, such as Android Watch Launcher or Apple Watch UI Home.
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
 ![image](./img/waterfall.png)
 ![image](./img/waterfall.gif)
 
-## LVGL_Windows_Manager
+## LVGL_Windows_Manager 
 <a id="LVGL_Windows_Manager"></a>
-The LVGL Windows Manager is based on V9.3, and it is a demo application that showcases the capabilities of the LVGL  graphical user interface library. It is designed to provide a user-friendly interface for launching various applications and features on a graphical display, such as Android Launcher or Apple UI Home.
+The LVGL Windows Manager is based on LVGL9.3, and it is a demo application that showcases the capabilities of the LVGL  graphical user interface library. It is designed to provide a user-friendly interface for managing all various applications and features on a graphical display, such as MVVM for Android/Apple.
 Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
 
 The UI screen shot is as follows:
 ![image](./img/win_main.png)
 ![image](./img/view_manager.gif)
+
+## LVGL_VIEW_INDICATOR
+<a id="LVGL_VIEW_INDICATOR"></a>
+The LVGL_VIEW_INDICATOR is based on LVGL9.3, and it is a demo application that showcases the capabilities of the LVGL  graphical user interface library. It is designed to provide a user-friendly interface for switch defferent views, such as indicator on the Android/Apple.
+Ofcause it can be used for other purposes, such as a custom desktop environment or a home automation dashboard.
+
+The UI screen shot is as follows:
+![image](./img/view_indicator.png)
 
 ## LVGL_VSCode
 <a id="LVGL_VSCode_"></a>
